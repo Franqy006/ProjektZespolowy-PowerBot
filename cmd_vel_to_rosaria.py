@@ -18,7 +18,6 @@ def start2():
    pub = rospy.Publisher('/RosAria/cmd_vel', Twist, queue_size=10)
 
 if __name__ == '__main__':
-   time.sleep(1)
    start2()
    start()
 
