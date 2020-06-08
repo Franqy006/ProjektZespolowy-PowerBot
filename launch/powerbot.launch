@@ -15,7 +15,7 @@
         <node pkg="robot_setup_tf" type="tf_listener" name="tf_listener" output="screen" />
 
 	
-	<!-- Uruchomienie pointclout to laserscan-->
+	<!-- Uruchomienie pointcloud to laserscan-->
 
     <node pkg="pointcloud_to_laserscan" type="pointcloud_to_laserscan_node" name="pointcloud_to_laserscan">
       <remap from="cloud_in" to="/RosAria/sonar_pointcloud2"/>
