@@ -1,8 +1,8 @@
 # powerbot_2dnav
 
-Politechnika Wrocławska 
-Wydział Elektroniki 
-Projekt Zespołowy 
+Politechnika Wrocławska  
+Wydział Elektroniki  
+Projekt Zespołowy  
 06.2020
 
 
